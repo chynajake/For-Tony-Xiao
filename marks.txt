@@ -1,0 +1,5 @@
+4
+Vasya 		85	100	93 
+Petr		100	20	100 
+Gennadiy	45	100	78 
+Arsentiy	96	90	37 
